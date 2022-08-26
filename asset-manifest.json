@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ux_portfolio/static/css/main.bf37e66b.css",
+    "main.js": "/ux_portfolio/static/js/main.d32b2a81.js",
+    "static/media/Background.png": "/ux_portfolio/static/media/Background.25ba22a0c3fcc8e25e13.png",
+    "static/media/Ilustrationbottom.png": "/ux_portfolio/static/media/Ilustrationbottom.7d06244aeeff8938ae56.png",
+    "static/media/group.png": "/ux_portfolio/static/media/group.e8c7ae4a60fada4c97b9.png",
+    "static/media/2.png": "/ux_portfolio/static/media/2.b1556957745e7015a4c4.png",
+    "static/media/3.png": "/ux_portfolio/static/media/3.37b88fcbed93186372b7.png",
+    "static/media/phone.png": "/ux_portfolio/static/media/phone.a224467cc8ef6453c73d.png",
+    "static/media/group1.png": "/ux_portfolio/static/media/group1.cc7630a3f05a09556c5d.png",
+    "static/media/5.png": "/ux_portfolio/static/media/5.f086d42fc384c77b0409.png",
+    "static/media/1.png": "/ux_portfolio/static/media/1.94913b5a561ddb832b97.png",
+    "static/media/3d 2.png": "/ux_portfolio/static/media/3d 2.47038f076e0e59d7861e.png",
+    "static/media/working.png": "/ux_portfolio/static/media/working.ce1696040090e3b32be0.png",
+    "static/media/women.png": "/ux_portfolio/static/media/women.835d973669beeecf9016.png",
+    "static/media/house.webp": "/ux_portfolio/static/media/house.5bf8231e244b13fe90aa.webp",
+    "index.html": "/ux_portfolio/index.html",
+    "main.bf37e66b.css.map": "/ux_portfolio/static/css/main.bf37e66b.css.map",
+    "main.d32b2a81.js.map": "/ux_portfolio/static/js/main.d32b2a81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf37e66b.css",
+    "static/js/main.d32b2a81.js"
+  ]
+}
