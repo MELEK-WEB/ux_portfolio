@@ -1,0 +1,121 @@
+.BottomIMG{
+
+         position: absolute;
+        width: 50%;
+        left: 50%;
+        top: 280px;
+
+}
+.AboutMe{
+    width: 720px;
+    height: 234px;
+    margin-left: 90px;
+}
+.Description{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 130%;
+    color: #C961DE;
+    ;
+
+}
+.Buttons {
+    display: flex;
+    justify-content: center;
+}
+.button {
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 37px;
+
+    font-size: 17px;
+    font-weight: 400;
+  
+    letter-spacing: 0em;
+ 
+    
+   
+}
+.workwithme{
+    background: linear-gradient(107.21deg, #C961DE 24.43%, #2954A3 68.95%);
+    background-blend-mode: overlay;
+    color: white;
+    line-height: 24px;
+   
+
+}
+.hireMe{
+    box-sizing: border-box;
+
+    background: rgba(81, 20, 142, 0.2);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(23.1513px);
+    border: 1.53px solid;
+    color: white;
+    line-height: 143.2%;
+
+
+}
+.BottomSection{
+    display: flex;
+    justify-content: space-between;
+
+}
+.CONTAINER{
+    display: flex;
+    width: 100%;
+    
+}
+
+.desc_aboutme {
+    position: absolute;
+    top: 140%;
+    left: 30%;
+    width: 630px ;
+    height: 630px;
+    border-radius: 350px;
+    background: linear-gradient(144.11deg, #C961DE 13.74%, #2954A3 90.91%);
+}
+.desc{
+    position: absolute;
+    font-weight: 400;
+    font-size: 17.0917px;
+    line-height: 130%;
+    height: 176px;
+    width: 306px;
+    color: white;
+    left: 289px;
+    top: 200px;
+}
+.Heading {
+    position: absolute;
+    width: 116px;
+    height: 36px;
+    left: 289px;
+    top: 130px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    /* or 26px */
+    
+    
+    color: #FFFFFF;
+}
+.women {
+    position: absolute;
+    width: 80%;
+    top: -60px;
+   
+
+}
+.Background{
+    position: absolute;
+    width: 80%;
+    top: 125%;
+    left: 10%;
+}

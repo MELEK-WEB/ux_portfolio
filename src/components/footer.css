@@ -1,0 +1,49 @@
+.group{
+    position: absolute;
+    width: 800px;
+
+    top: 3400px;
+    left: 500px;
+    
+}
+.group1 {
+    position: absolute;
+    top: 3950px;
+}
+
+.footer{
+    position: absolute;
+    width: 1444px;
+    height: 422px;
+    left: 14px;
+    top: 4090px;
+    background: #4656AE;
+}
+.FooterList{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.footerItem{
+    width: auto;
+    margin-top :100px;
+    padding: 50px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 143.2%;
+    /* or 24px */
+    
+    
+    color: #FFFFFF;
+    
+}
+.iconfooter{
+    order: 2;
+    padding: 0;
+    margin-right: 20px;
+}

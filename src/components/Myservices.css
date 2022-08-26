@@ -1,0 +1,74 @@
+.container{
+    position: absolute;
+    top: 275%;
+    height: 1024px;
+   
+
+    width: 1440px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+
+}
+.heading{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    position: absolute;
+    top: 250%;
+    left: 48%;
+    width: 100%;
+/* identical to box height, or 39px */
+
+
+color: #4656AE;
+}
+.Headingserv {
+ text-align: center;
+
+ color: white;
+ background-color: #4656AE;
+ width: 380px;
+height: 60px;
+border-radius: 0px 0px 30px 30px;
+padding-top: 20px;
+}
+.services{
+    position: absolute;
+    left: 10%;
+    display: flex;
+  
+}
+.service{
+    background-color: rgba(236, 231, 241, 0.4);
+    backdrop-filter: blur(20px);
+    box-sizing: border-box;
+    width: 380px;
+    height: 280px;
+    border-radius: 30px;
+}
+.second{
+    width: 440px;
+    height: 330px;
+    background: rgba(181, 249, 253, 0.42);
+    backdrop-filter: blur(20px);
+
+}
+.Headingservsecond{
+    text-align: center;
+
+    color: white;
+    background-color: #4656AE;
+    width: 440px;
+   height: 60px;
+   border-radius: 0px 0px 30px 30px;
+   padding-top: 20px;
+}
+.RecentWork{
+    position: absolute;
+    top: 380%;
+    left: 10%;
+    display: flex;
+    flex-direction: column;
+   
+}

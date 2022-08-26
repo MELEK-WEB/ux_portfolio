@@ -1,0 +1,139 @@
+.container_form{
+    box-sizing: border-box;
+    font-family: 'Poppins';
+
+    position: absolute;
+    top: 500%;
+    left: 270px;
+    width: 900px;
+    height: 700px;
+    background: #AE86CD;
+    backdrop-filter: blur(20px);
+    
+    
+    border-radius: 30px;
+
+}
+.form_title{
+    position: absolute;
+    width: 149px;
+    height: 34px;
+    top: 0;
+    left: 100px;
+    font-size: 24px;
+    line-height: 143.2%;
+
+
+
+color: #FFFFFF;
+
+}
+
+.form_description{
+    position: absolute;
+    width: 252px;
+    height: 144px;
+    line-height: 143.2%;
+    color: #FFFFFF;
+    left: 100px;
+    top: 100px;
+}
+.form_footer{
+    display: flex;
+    order: 1;
+    flex-grow: 0;
+    gap: 15px;
+    left: 100px;
+    position: absolute;
+    top: 300px;
+    color: #FFFFFF;
+}
+.contact_form{
+    left: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+
+    
+}
+::placeholder{
+    color: white;
+}
+.input{
+    font-family: 'Poppins';
+
+    border: none;
+    padding: 10px 10px 10px 20px;
+    width: 340px;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 10px 20px rgba(7, 7, 26, 0.15);
+    border-radius: 10px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    font-family: 'Poppins';
+
+    width: 160px;
+    height: 40px;
+    font-size: 15px;
+    line-height: 143.2%;
+    background: linear-gradient(105.95deg, #C961DE 24.79%, #2954A3 71.87%);
+    box-shadow: 0px 10px 20px rgba(7, 7, 26, 0.15);
+    border-radius: 10px;
+    border: none;
+    /* Inside auto layout */
+    color: white ;
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+}
+.message{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 10px 10px 20px;
+gap: 10px;
+border: none;
+width: 340px;
+height: 200px;
+
+background: rgba(255, 255, 255, 0.3);
+box-shadow: 0px 10px 20px rgba(7, 7, 26, 0.15);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 10px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+.form_title_send{
+    top: -100px;
+    width: 249px;
+    font-weight: 700;
+    font-size: 24px;
+    height: 34px;
+    position: absolute;
+}
+.working{
+    position: absolute;
+    left: 1.58%;
+    right: 63.31%;
+    top: 2590px;
+    bottom: 18.35%;
+    order: 1;
+}

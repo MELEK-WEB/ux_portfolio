@@ -1,0 +1,22 @@
+:root {
+    --mauv: #C961DE;
+    --white: #ffffff;
+  }
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins';
+    
+
+}
+.nav-list{
+    margin-right:   100px;
+    font-size: 17px;
+    color:var(--mauv);
+}
+a{
+   text-decoration: none;
+
+}
