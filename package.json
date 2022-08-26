@@ -1,7 +1,7 @@
 {
   "name": "ux-ui_website",
   "version": "0.1.0",
-  "homepage": "https://MELEK-WEB..github.io/ux_portfolio",
+  "homepage": "https://MELEK-WEB.github.io/ux_portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
